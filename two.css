@@ -1,0 +1,40 @@
+.ddiv{
+    color: blue;
+    position: absolute;
+    top: 10px;
+}
+.second{
+    position: absolute;
+    top: 0px;
+    left: 850px;
+}
+hr{
+    position: relative;
+    top: 60px;
+}
+h1{
+    position: absolute;
+    left: 575px;
+}
+.me{
+    position: absolute;
+    left: 750px;
+    top: 70px;
+}
+.phone{
+    position: absolute;
+    top: 90px;
+}
+.face{
+    position: absolute;
+    top: 120px;
+}
+.insta{
+    position: absolute;
+    top: 147px;
+}
+.first{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
